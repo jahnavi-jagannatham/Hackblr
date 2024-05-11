@@ -27,4 +27,4 @@ Kick-Start-Up is an open-source project, and we welcome contributions from devel
 Get in Touch:
 Have questions, feedback, or suggestions? We'd love to hear from you! Reach out to us via email at contact@kickstartup.com or join our community forum for discussions and updates.
 
-Let's connect ideas with opportunities and build a brighter future together with IdeaConnect!
+Let's connect ideas with opportunities and build a brighter future together with Kick-Start-Up!
