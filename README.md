@@ -1,4 +1,4 @@
-# Project Description: Kick-Start-Up
+# Project Name: Kick-Start-Up
 Welcome to Kick-Start-Up! This platform serves as a bridge between innovative startup ideas and eager investors, facilitating connections that drive future successes. Whether you're a tech enthusiast or come from a non-tech background, we welcome you to explore, share, and invest in groundbreaking concepts.
 
 Features:
