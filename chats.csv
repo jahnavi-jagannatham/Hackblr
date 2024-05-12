@@ -1,0 +1,22 @@
+from,to,chat,timestamp
+jahnavi,user1,hello,5/12/2024 12:00
+jahnavi,user1,hello,5/12/2024 12:00
+jahnavi,user1,how are you?,5/12/2024 12:00
+jahnavi,user1,how are you?,5/12/2024 12:00
+user1,jahnavi,hey,5/12/2024 12:02
+user1,jahnavi,hey,5/12/2024 12:02
+user1,jahnavi,I'm good,5/12/2024 12:13
+user1,jahnavi,I'm good,5/12/2024 12:13
+jahnavi,user1,fine,5/12/2024 12:18
+jahnavi,user1,fine,5/12/2024 12:18
+user1,jahnavi,okay,2024-05-12 12:41:29
+user1,jahnavi,okay,2024-05-12 12:41:29
+jahnavi,user1,okay,2024-05-12 12:47:19
+judge1,jahnavi,hi,2024-05-12 13:20:36
+judge1,jahnavi,hi,2024-05-12 13:20:36
+jahnavi,judge1,hello sir,2024-05-12 13:21:28
+jahnavi,judge1,hello sir,2024-05-12 13:21:31
+judge1,jahnavi,how are you?,2024-05-12 13:22:06
+judge1,jahnavi,how are you?,2024-05-12 13:22:09
+jahnavi,judge1,I'm good,2024-05-12 13:22:22
+jahnavi,judge1,I'm good,2024-05-12 13:22:26
