@@ -2,7 +2,8 @@
 Welcome to Kick-Start-Up! This platform serves as a bridge between innovative startup ideas and eager investors, facilitating connections that drive future successes. Whether you're a tech enthusiast or come from a non-tech background, we welcome you to explore, share, and invest in groundbreaking concepts.
 
 ## Features:
-Idea Submission: Users can effortlessly submit their startup ideas. If they have both the idea and a prototype ready, they can directly upload it to the platform.
+### Idea Submission:
+Users can effortlessly submit their startup ideas. If they have both the idea and a prototype ready, they can directly upload it to the platform.
 
 ### AI-powered Idea Development: 
 For those uncertain about their ideas, our AI chatbot provides guidance and assistance in refining and developing concepts.
